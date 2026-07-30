@@ -1,0 +1,61 @@
+baseURL = "https://mytaditya.github.io"
+locale = "en-us"
+title = "Mastered YT Aditya's Official Website"
+theme = "mana"
+
+[params]
+  description = "Mastered YT Aditya's Official Website"
+  favicon = "/favicon/favicon.ico"
+  
+  # Hero section title (optional - defaults to site.Title)
+  heroTitleLine1 = "Mastered YT Aditya"  # First line of hero title
+  heroTitleLine2 = "Your Bla"    # Second line of hero title (optional)
+
+[params.avatar]
+  [params.avatar.home]
+    assetPath = "images/transparent-logo.png"
+  [params.avatar.about]
+    assetPath = "images/logo.png"
+	
+[params.social]
+  github = "https://github.com/MYTAditya"
+  twitter = "MYTAditya"
+
+[params.codeHighlight]
+  darkTheme = "catppuccin-macchiato"   # Theme for dark mode
+  lightTheme = "catppuccin-frappe"     # Theme for light mode
+  
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
+
+[[menus.main]]
+  name = 'Tags'
+  pageRef = '/tags'
+  weight = 30
+
+[[menus.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 40
+  
+[pagination]
+  pageSize = 10  # Number of posts per page (default: 10)
+  
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+    style = "catppuccin-macchiato"  # Default style
