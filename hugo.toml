@@ -8,10 +8,10 @@ theme = "mana"
     dir = ':cacheDir/images'
 
 [params]
-  description = "Mastered YT Aditya's Official Website"
+  description = "Get the latest official updates from Mastered YT Aditya at here!"
   favicon = "/favicon/favicon.ico"
-  heroTitleLine1 = "Mastered YT Aditya"
-  heroTitleLine2 = "Your Bla"
+  heroTitleLine1 = "Mastered YT Aditya's"
+  heroTitleLine2 = "Official Website"
 
 [params.avatar]
   [params.avatar.home]
@@ -51,11 +51,6 @@ theme = "mana"
   pageSize = 10
   
 [markup]
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 6
-    ordered = false
-
   [markup.highlight]
     codeFences = true
     guessSyntax = true
