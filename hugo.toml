@@ -1,4 +1,4 @@
-baseURL = "https://mytaditya.github.io/"
+baseURL = "https://mytaditya.vercel.app/"
 locale = "en-us"
 title = "Mastered YT Aditya's Official Website"
 theme = "mana"
