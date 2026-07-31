@@ -24,7 +24,7 @@ theme = "mana"
   twitter = "MYTAditya"
 
 [params.codeHighlight]
-  darkTheme = "catppuccin-macchiato"
+  darkTheme = "aura-theme-dark"
   lightTheme = "catppuccin-frappe"
   
 [[menus.main]]
@@ -51,6 +51,11 @@ theme = "mana"
   pageSize = 10
   
 [markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
   [markup.highlight]
     codeFences = true
     guessSyntax = true
