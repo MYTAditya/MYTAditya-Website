@@ -3,13 +3,15 @@ locale = "en-us"
 title = "Mastered YT Aditya's Official Website"
 theme = "mana"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   description = "Mastered YT Aditya's Official Website"
   favicon = "/favicon/favicon.ico"
-  
-  # Hero section title (optional - defaults to site.Title)
-  heroTitleLine1 = "Mastered YT Aditya"  # First line of hero title
-  heroTitleLine2 = "Your Bla"    # Second line of hero title (optional)
+  heroTitleLine1 = "Mastered YT Aditya"
+  heroTitleLine2 = "Your Bla"
 
 [params.avatar]
   [params.avatar.home]
@@ -22,8 +24,8 @@ theme = "mana"
   twitter = "MYTAditya"
 
 [params.codeHighlight]
-  darkTheme = "catppuccin-macchiato"   # Theme for dark mode
-  lightTheme = "catppuccin-frappe"     # Theme for light mode
+  darkTheme = "catppuccin-macchiato"
+  lightTheme = "catppuccin-frappe"
   
 [[menus.main]]
   name = 'Home'
@@ -46,7 +48,7 @@ theme = "mana"
   weight = 40
   
 [pagination]
-  pageSize = 10  # Number of posts per page (default: 10)
+  pageSize = 10
   
 [markup]
   [markup.tableOfContents]
@@ -58,4 +60,4 @@ theme = "mana"
     codeFences = true
     guessSyntax = true
     noClasses = false
-    style = "catppuccin-macchiato"  # Default style
+    style = "catppuccin-macchiato"
