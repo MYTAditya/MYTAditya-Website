@@ -1,6 +1,7 @@
 +++
 date = '2026-07-30T16:52:33+05:30'
 title = 'First Post'
+tags = ["Blog", "WebDev", "FirstPost"]
 +++
 
 Hi guys! It's me, Aditya! This is to inform you that I'm building my website and this is the first post I've created.
