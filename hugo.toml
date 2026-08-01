@@ -15,7 +15,7 @@ theme = "mana"
 
 [params.avatar]
   [params.avatar.home]
-    assetPath = "images/logo.png"
+    assetPath = "images/transparent-logo.png"
   [params.avatar.about]
     assetPath = "images/logo.png"
 	
