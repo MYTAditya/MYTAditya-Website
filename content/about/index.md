@@ -2,9 +2,9 @@
 title = 'About'
 url = 'about'
 +++
-<img width="1000" height="296" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e" />
+![Official Banner](https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e)
 
-<img width="1000" height="5" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" />
+![](https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!)
  
@@ -25,6 +25,7 @@ I'm available on:
 [![Minecraft Bedrock](https://img.shields.io/badge/Minecraft%20Bedrock-707070?style=for-the-badge)](https://launch.minecraft.net/profile/AdityaTCP201)
 [![Scratch](https://img.shields.io/badge/Scratch-855CD6?style=for-the-badge&logo=scratch&logoColor=ffffff)](https://scratch.mit.edu/users/MYTAditya)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/mytaditya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MYTAditya)
 
 My Skills:
 
